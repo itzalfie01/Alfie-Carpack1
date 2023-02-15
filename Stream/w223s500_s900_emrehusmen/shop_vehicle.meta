@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+
+
+		
+		<Item>
+			<lockHash>CU_VEH_w223s500_s900_emrehusmen</lockHash>
+			<modelNameHash>w223s500_s900_emrehusmen</modelNameHash>
+			<cost value="100"/>
+			<textLabel>w223s500_s900_emrehusmen</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+
+
+	</Vehicles>	
+</ShopVehicleDataArray>
